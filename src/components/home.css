@@ -1,0 +1,13 @@
+.home {
+  width: 500px;
+  margin: 50px auto;
+}
+
+h3 {
+  margin: 10px;
+  text-align: center;
+}
+
+.home p {
+  padding: 5px;
+}

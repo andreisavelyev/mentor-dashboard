@@ -1,0 +1,43 @@
+table, td {
+  border: 3px solid rgb(172, 172, 172);
+  border-collapse: collapse;
+  font-weight: 600;
+}
+
+table {
+  margin: 0 auto;
+}
+
+tr {
+  text-align: center;
+}
+
+td {
+  padding: 5px;
+}
+
+.checked {
+  background-color: greenyellow;
+}
+
+.unchecked {
+  background-color: red;
+}
+
+.checking {
+  background-color: rgba(218, 79, 25, 0.719);
+}
+
+.todo {
+  background-color: rgb(151, 151, 151);
+}
+
+.in-progress {
+  background-color: rgb(217, 255, 0);
+}
+
+
+h2 {
+  text-align: center;
+  margin: 10px;
+}

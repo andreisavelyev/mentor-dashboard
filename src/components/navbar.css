@@ -1,0 +1,29 @@
+.navigation {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: 115px;
+  background-color: darkred;
+  padding: 0 100px;
+}
+
+.navigation-link {
+  text-decoration: none;
+  color: #000;
+  font-weight: 900;
+  margin: 0 20px;
+  border: 5px solid #000;
+  border-radius: 10%;
+  padding: 10px;
+  background: #eee;
+}
+
+.active {
+  background: darkgray;
+  color: #fff;
+}
+
+.buttons-container {
+  margin: auto;
+}
